@@ -4,7 +4,7 @@ Sistema Web de Gestão de Trocas e Logística Reversa para E-commerce.
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **EASY SWAP** é uma solução web desenvolvida para simplificar e automatizar o processo de trocas e devoluções em lojas virtuais.
 
@@ -15,7 +15,7 @@ O sistema organiza a logística reversa, reduz retrabalho e melhora a experiênc
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 - Automatizar solicitações de trocas e devoluções  
 - Organizar tickets de atendimento  
@@ -25,14 +25,13 @@ O sistema organiza a logística reversa, reduz retrabalho e melhora a experiênc
 
 ---
 
-## 🏗️ Tipo de Sistema
+## Tipo de Sistema
 
 Sistema Web Responsivo  
-(Acessível via navegador – não é aplicativo mobile ou desktop)
 
 ---
 
-## 👤 Público-Alvo
+## Público-Alvo
 
 - Pequenos e médios e-commerces  
 - Lojas virtuais que utilizam plataformas como Shopify  
@@ -41,7 +40,7 @@ Sistema Web Responsivo
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 **Frontend:**  
 - Next.js
@@ -60,9 +59,9 @@ Sistema Web Responsivo
 
 ---
 
-## 🔄 Fluxo do Sistema
+## Fluxo do Sistema
 
-### 📲 Cliente
+### Cliente
 
 1. Escaneia QR Code ou acessa link
 2. Preenche formulário com:
@@ -103,10 +102,10 @@ Sistema Web Responsivo
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 
-## 🗃️ Modelagem do Banco (Principais Tabelas)
+## Modelagem do Banco (Principais Tabelas)
 
 **tickets**
 - id
@@ -131,7 +130,7 @@ Sistema Web Responsivo
 
 ---
 
-## 🚀 Deploy
+## Deploy
 
 O sistema é publicado na Vercel, conectado ao Supabase.
 
@@ -144,7 +143,7 @@ Fluxo de deploy:
 
 ---
 
-## ⏱️ Planejamento de Execução
+## Planejamento de Execução
 
 Tempo total estimado: 60 horas
 
@@ -154,7 +153,7 @@ Tempo total estimado: 60 horas
 
 ---
 
-## 📈 Diferencial da Solução
+## Diferencial da Solução
 
 - Automatização de trocas para pequenos e médios e-commerces
 - Redução de atendimento manual via WhatsApp e e-mail
@@ -163,12 +162,12 @@ Tempo total estimado: 60 horas
 
 ---
 
-## 📌 Status do Projeto
+## Status do Projeto
 
 Em desenvolvimento.
 
 ---
 
-## 👩‍💻 Desenvolvido por Elen Vieira
+## Desenvolvido por Elen Vieira
 
 Projeto acadêmico / portfólio com foco em soluções para e-commerce.
