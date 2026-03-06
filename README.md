@@ -77,7 +77,7 @@ Sistema Web Responsivo
 
 ---
 
-### 🖥️ Atendente
+### Atendente
 
 1. Acessa painel administrativo (/admin)
 2. Visualiza lista de tickets
@@ -92,7 +92,7 @@ Sistema Web Responsivo
 
 ---
 
-## 📊 Dashboard (Indicadores)
+## Dashboard (Indicadores)
 
 - Total de tickets
 - Tickets por status
